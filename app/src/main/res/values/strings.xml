@@ -19,11 +19,14 @@ La LSFP organise chaque saison une compétition dénommée Championnat de Footba
 Elle peut, en accord avec la FSF et les clubs professionnels, organiser toute autre compétition.</string>
     <string name="home">Accueil</string>
     <string name="meet">Rencontre</string>
-    <string name="connection">Connexion</string>
-    <string name="login">Identifiant</string>
+    <string name="username">Identifiant</string>
+    <string name="confirm_password">Confirmer</string>
     <string name="password">Mot de passe</string>
-    <string name="connect">Se connecter</string>
-    <string name="sign_up">Inscription</string>
+    <string name="connect">Connexion</string>
+    <string name="register">S\'inscrire</string>
+    <string name="alreadyRegistered">Déjà inscrit</string>
+    <string name="login">Se connecter</string>
+    <string name="registration">INSCRIPTION</string>
     <string name="help">Aide</string>
     <string name="teams">Equipes</string>
     <string name="email">senegalfoot@senegal.sn</string>

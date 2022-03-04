@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FootballSenegalais">
         <activity
+            android:name=".HomeActivity"
+            android:exported="false"
+            android:label="@string/title_activity_home"
+            android:theme="@style/Theme.FootballSenegalais.NoActionBar" />
+        <activity
             android:name=".LoginActivity"
             android:exported="false" />
         <activity

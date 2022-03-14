@@ -42,6 +42,7 @@ Elle peut, en accord avec la FSF et les clubs professionnels, organiser toute au
     <string name="error_field">Champs obligatoire</string>
     <string name="incorrect_information">indifiant ou mot de passe incorrect</string>
     <string name="connection_failed">Soucis de connexion</string>
+    <string name="back">Retour</string>
 
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>

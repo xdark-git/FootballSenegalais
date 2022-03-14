@@ -27,4 +27,19 @@
         android:name="com.example.footballsenegalais.HelpFragment"
         android:label="@string/help"
         tools:layout="@layout/activity_help_fragment" />
+    <fragment
+        android:id="@+id/nav_meet"
+        android:name="com.example.footballsenegalais.MeetFragment"
+        android:label="@string/meet"
+        tools:layout="@layout/fragment_meet" />
+    <fragment
+        android:id="@+id/nav_results"
+        android:name="com.example.footballsenegalais.ResultatsFragment"
+        android:label="@string/result"
+        tools:layout="@layout/fragment_resultats" />
+    <fragment
+        android:id="@+id/nav_teams"
+        android:name="com.example.footballsenegalais.TeamsFragment"
+        android:label="@string/teams"
+        tools:layout="@layout/fragment_teams" />
 </navigation>

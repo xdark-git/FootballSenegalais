@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_teams"
+            android:icon="@drawable/ic_teams"
+            android:title="@string/teams" />
+        <item
+            android:id="@+id/nav_meet"
+            android:icon="@drawable/ic_meeting"
+            android:title="@string/meet" />
+        <item
+            android:id="@+id/nav_results"
+            android:icon="@drawable/ic_result"
+            android:title="@string/result" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_help"
+            android:title="@string/help" />
+    </group>
+</menu>

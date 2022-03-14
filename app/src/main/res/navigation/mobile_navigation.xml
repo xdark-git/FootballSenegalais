@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.footballsenegalais.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.footballsenegalais.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.footballsenegalais.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_help"
+        android:name="com.example.footballsenegalais.HelpFragment"
+        android:label="@string/help"
+        tools:layout="@layout/activity_help_fragment" />
+    <fragment
+        android:id="@+id/nav_meet"
+        android:name="com.example.footballsenegalais.MeetFragment"
+        android:label="@string/meet"
+        tools:layout="@layout/fragment_meet" />
+    <fragment
+        android:id="@+id/nav_results"
+        android:name="com.example.footballsenegalais.ResultatsFragment"
+        android:label="@string/result"
+        tools:layout="@layout/fragment_resultats" />
+    <fragment
+        android:id="@+id/nav_teams"
+        android:name="com.example.footballsenegalais.TeamsFragment"
+        android:label="@string/teams"
+        tools:layout="@layout/fragment_teams" />
+</navigation>

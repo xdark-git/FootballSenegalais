@@ -5,17 +5,17 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context=".LoginActivity">
 
-  <!--<ImageView
-        android:layout_width="match_parent"
-        android:layout_height="170dp"
-        android:padding="@dimen/top"
-        android:paddingBottom="19dp"
-        android:src="@mipmap/ic_launcher"/>-->
+    <ImageView
+          android:layout_width="match_parent"
+          android:layout_height="170dp"
+          android:padding="@dimen/top"
+          android:paddingBottom="19dp"
+          android:src="@mipmap/ic_launcher"/>
 
     <TextView
-        android:text="@string/registration"
+        android:text="@string/connect"
         android:gravity="center_horizontal"
         android:layout_margin="40dp"
         android:textColor="#0F8538"
@@ -39,35 +39,16 @@
         android:gravity="center"
         android:textSize="20dp"
         android:layout_margin="20dp"
-        android:layout_marginTop="@dimen/top"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 
-
- <EditText
-        android:hint="@string/confirm_password"
-        android:id="@+id/txtConfirmPassword"
-        android:gravity="center"
-        android:textSize="20dp"
-        android:layout_margin="20dp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
     <Button
-        android:id="@+id/btnRegister"
-        android:text="@string/register"
+        android:id="@+id/btnSign_in"
+        android:text="@string/login"
         android:textSize="20dp"
         android:layout_margin="20dp"
         android:backgroundTint="#0F8538"
         android:layout_width="match_parent"
         android:layout_height="60dp"/>
-
-    <Button
-        android:id="@+id/btnAlreadyRegistered"
-        android:text="@string/alreadyRegistered"
-        android:textSize="20dp"
-        android:layout_margin="20dp"
-        android:layout_width="match_parent"
-        android:backgroundTint="#0F8538"
-        android:layout_height="50dp"/>
 
 </LinearLayout>

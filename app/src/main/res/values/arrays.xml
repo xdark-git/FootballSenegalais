@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tab_teams">
+        <item>Casa Sport</item>
+        <item>CNEPS Excellence</item>
+        <item>Diambars</item>
+        <item>Douanes</item>
+        <item>DSC</item>
+        <item>Génétion Foot</item>
+        <item>Jaraaf</item>
+        <item>Niarry Tally</item>
+        <item>Pikine</item>
+        <item>State de Mbour</item>
+        <item>Teugueth</item>
+        <item>ASEC Ndiambour</item>
+        <item>US Gorée</item>
+    </string-array>
+    <string-array name="tab_details">
+        <item>Le Casa Sports est le club de football fanion de la capitale du sud du Sénégal, la ville de Ziguinchor. L\’équipe joue dans le Championnat du Sénégal de football de Première Division</item>
+        <item>La CNEPS Excellence est un club sénégalais évoluant dans l\’élite du football sénégalais. Il est la propriété de la Compagnie Nationale des Experts en Piscines et Spas. Présidé par Papa Sidy Lo, ce club basé à Thiès au Sénégal se propose dans la formation de joueurs depuis quelques années au Sénégal. Bien que ne disposant pas d\’un palmarès en championnat, le club a le mérite d\’avoir assuré la formation de l\’international sénégalais Ousseynou Ba actuellement du côté de l\’Olympiacos en Grèce.</item>
+        <item>Le Diambars Football Club est un club de football professionnel sénégalais créé en février 2003 par Jean-Marc Adjovi-Boco avec Bernard Lama et l\'investisseur Saer Seck, et basé dans la ville de Saly à l\'institut sport-études Diambars</item>
+        <item>Article 1 : Il est créé à Dakar, conformément aux dispositions statutaires du décret n° 76-040 du 16 Janvier 1976, une association sportive dénommée ASSOCIATION SPORTIVE DES DOUANES (AS DOUANES). Sa durée est illimitée ; son siége est installé à la Direction Générale des Douanes, 8-10 Allées Robert Delmas Dakar.
+
+Article 2 : Cette association a pour but :
+
+a) de promouvoir la pratique du Sport dans toutes les disciplines;
+b) d\’unir les agents des Douanes en activité et à la retraite animés d’un même idéal et de créer entre eux des liens d\’entente et de solidarité;
+c) de contribuer à l\’émancipation sociale et à la formation civique des populations.</item>
+        <item>L\'Association Sportive Dakar Sacré-Cœur est un club de football sénégalais fondé en 2005 et basé dans la ville de Dakar plus précisément dans la commune de la SICAP-Mermoz. Le club évolue entre 2012 et 2017 en Ligue 2, la deuxième division nationale</item>
+        <item>L\'Association sportive Génération Foot est un club de football sénégalais fondé en 2000 par Mady Touré, antenne du FC Metz au Sénégal qui sert d\'incubateur à talent du football africain
+Gorée</item>
+        <item>L\'association sportive et culturelle Jaraaf possède une section football qui est le club le plus titré du football sénégalais Il est basé à Dakar et a été créé le 20 septembre 1969. Le club portait, durant les années 1930, le nom de Foyer France Sénégal</item>
+        <item>L\'ASC Niarry-Tally Grand-Dakar Biscuiterie est un club de football sénégalais basé à Dakar. Le club évolue en première division et a été vice-champion du Sénégal en 2010 et 2015.</item>
+        <item>L\'AS Pikine accède à la Ligue 1 à l\'issue de la saison 2009, où le club est sacré champion de Ligue 2. Les débuts en première division sont mitigés mais la formation de Pikine parvient à se maintenir plusieurs saisons sans encombre. Il remporte son premier titre en Coupe grâce à un succès en Coupe de la ligue en 2011.</item>
+        <item>Le Stade de Mbour est un club de football sénégalais basé à Mbour sur la Petite-Côte. C\'est l\'équipe fanion de la ville de Mbour. Ce club multi-catégoriel et pluridisciplinaire évolue actuellement en Ligue 1.</item>
+        <item>Le Teungueth Football Club Rufisque, plus couramment abrégé en TFC Rufisque, est un club de football sénégalais fondé en 2010 et basé dans la ville de Rufisque</item>
+        <item>L\'ASAC Ndiambour est un club professionnel sénégalais de football, basé à Louga et dont il est le club phare de la région. Il évolue en Ligue 1</item>
+        <item>L\'Union sportive de Gorée, plus couramment appelée l\'US Gorée est un club de football sénégalais basé à Gorée. Bien qu\'étant le club représentant de l\'île, l\'équipe joue ses matchs à domicile dans le stade Demba-Diop sur le continent.</item>
+    </string-array>
+    <string-array name="tab_meet">
+        <item>Diambars VS Niarry Tally</item>
+        <item>Douanes VS CNEPS</item>
+        <item>Gorée VS Génération Foot</item>
+        <item>ASEC Ndiambour VS Pikine</item>
+        <item>Stade Mbour VS Dakar SC</item>
+        <item>Mbour Petite-Côte VS Diambars</item>
+        <item>Niarry Tally VS Douanes</item>
+        <item>Dakar SC VS Jaraaf</item>
+        <item>CNEPS VS Teungueth</item>
+        <item>Pikine VS Gorée</item>
+        <item>Casa Sport VS ASEC Ndiambour</item>
+        <item>Génération Foot VS Stade Mbour</item>
+        <item>Dakar SC VS Génération Foot</item>
+        <item>Douanes VS Mbour Petite-Côte</item>
+        <item>Teungueth SC VS Niarry Tally</item>
+        <item>Diambars VS Jaraaf</item>
+        <item>Stade de Mbour VS Pikine</item>
+        <item>Gorée VS Casa Sport</item>
+        <item>ASEC Ndiambour VS CNEPS</item>
+    </string-array>
+    <string-array name="tab_results">
+        <item>Diambars (2 - 1) Niarry Tally</item>
+        <item>Douanes (3 - 2) CNEPS</item>
+        <item>Gorée (0 - 1) Génération Foot</item>
+        <item>ASEC Ndiambour (1 - 1) Pikine</item>
+        <item>Stade Mbour (0 - 0) Dakar SC</item>
+        <item>Mbour Petite-Côte (1 - 2) Diambars</item>
+        <item>Niarry Tally (2 - 1) Douanes</item>
+        <item>Dakar SC (0 - 1) Jaraaf</item>
+        <item>CNEPS (0 - 0) Teungueth</item>
+        <item>Pikine 3 - 1 Gorée</item>
+        <item>Casa Sport (0 - 0) ASEC Ndiambour</item>
+        <item>Génération Foot (1 - 1) Stade Mbour</item>
+        <item>Dakar SC (1 - 0) Génération Foot</item>
+        <item>Douanes (0 - 2) Mbour Petite-Côte</item>
+        <item>Teungueth SC (2 - 1) Niarry Tally</item>
+        <item>Diambars (1 - 1) Jaraaf</item>
+        <item>Stade de Mbour (3 - 2) Pikine</item>
+        <item>Gorée (1 - 1) Casa Sport</item>
+        <item>ASEC Ndiambour (1 - 1) CNEPS</item>
+    </string-array>
+    <string-array name="tab_detailsResluts">
+        <item>Match terminé</item>
+        <item>Match terminé</item>
+        <item>Match terminé</item>
+        <item>Match terminé</item>
+        <item>Match terminé</item>
+        <item>Match terminé</item>
+        <item>Match terminé</item>
+        <item>Match terminé</item>
+        <item>Match terminé</item>
+        <item>Match terminé</item>
+        <item>Match terminé</item>
+        <item>Match terminé</item>
+        <item>Match terminé</item>
+        <item>Match terminé</item>
+        <item>Match en cours</item>
+        <item>Match en cours</item>
+        <item>Match en cours</item>
+        <item>Match en cours</item>
+        <item>Match en cours</item>
+    </string-array>
+    <string-array name="help">
+        <item> Comment consulter la liste des Equipes</item>
+        <item>Comment consulter la liste des Resultats</item>
+        <item>Comment consulter les Rencontres</item>
+    </string-array>
+    <string-array name="helpDetails">
+        <item>Pour consulter la liste des équipes :
+        1.Appuie sur le menu déroulant
+        2.Appuie sur Equipes
+        si vous appuyez sur une équipes, vous aurez les détails sur l\'équipe</item>
+        <item>Pour consulter la liste de Resultats :
+        1.Appuie sur le menu déroulant
+        2.Appuie sur Resultats
+        si vous appuyez sur un match, vous aurez plus de détails sur le match</item>
+        <item>Pour consulter la liste des Rencontres :
+        1.Appuie sur le menu déroulant
+        2.Appuie sur rencontres
+        </item>
+    </string-array>
+</resources>

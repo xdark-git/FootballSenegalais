@@ -1,3 +1,52 @@
 <resources>
-    <string name="app_name">Football Senegalais</string>
+    <string name="app_name">Football Sénégalais</string>
+    <string name="text">La Ligue Sénégalaise de Football Professionnel (LSFP) est une association régie par les articles 811 et suivants du Code des Obligations civiles et commerciales du Sénégal. Elle est délégataire de pouvoir de la Fédération Sénégalaise de Football (FSF) et a compétence pour prendre toutes les mesures concernant l\’organisation et le développement dans les limites définies par la convention de la délégation.
+
+La LSFP a démarré ses compétitions avec la saison sportive 2008-2009.
+
+La LSFP à notamment le pouvoir :
+
+D\’organiser, de gérer, de développer et d\’administrer le football professionnel. A ce titre, elle :
+– Organise et gère les championnats de football professionnel du Sénégal et toutes autres épreuves qu\’elle aura créé, dans la limite de ses compétences ;
+– Agit, par divers moyens, afin que soient formés méthodiquement dans les centres de formation de ses clubs, les futurs footballeurs professionnel ;
+– Fait en sorte que les joueurs professionnels soient mis à la disposition de la FSF lors des rencontres internationales.
+D\’organiser, de gérer, de développer et d\’administrer le football professionnel ;
+De financer toutes les opérations ou actions aptes à développer les ressources du football professionnel dans le but d\’en assurer une promotion durable ;
+De veiller à l\’application des sanctions prononcées par ses instances disciplinaires vis-à-vis des associations engagées, des licenciés et de toutes autre personne liée par ses statuts ;
+De défendre les intérêts matériels et moraux du football professionnel.
+La LSFP organise chaque saison une compétition dénommée Championnat de Football Professionnel en deux niveaux : Ligue 1 (L1) et Ligue 2 (L2). Elle organise aussi une compétition dénommée dénommée : Coupe de la Ligue.
+
+Elle peut, en accord avec la FSF et les clubs professionnels, organiser toute autre compétition.</string>
+    <string name="home">Accueil</string>
+    <string name="meet">Rencontre</string>
+    <string name="username">Identifiant</string>
+    <string name="confirm_password">Confirmer</string>
+    <string name="password">Mot de passe</string>
+    <string name="connect">Connexion</string>
+    <string name="register">S\'inscrire</string>
+    <string name="alreadyRegistered">Déjà inscrit</string>
+    <string name="login">Se connecter</string>
+    <string name="logout">Se déconnecter</string>
+    <string name="registration">INSCRIPTION</string>
+    <string name="help">Aide</string>
+    <string name="teams">Equipes</string>
+    <string name="email">senegalfoot@senegal.sn</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="result">Résultat</string>
+    <string name="error_field">Champs obligatoire</string>
+    <string name="incorrect_information">indifiant ou mot de passe incorrect</string>
+    <string name="connection_failed">Soucis de connexion</string>
+    <string name="back">Retour</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
